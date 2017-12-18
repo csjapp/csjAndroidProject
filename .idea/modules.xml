@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/csjAndroidProject.iml" filepath="$PROJECT_DIR$/csjAndroidProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/csjandroidlibrary/csjandroidlibrary.iml" filepath="$PROJECT_DIR$/csjandroidlibrary/csjandroidlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo2/demo2.iml" filepath="$PROJECT_DIR$/demo2/demo2.iml" />
+    </modules>
+  </component>
+</project>
